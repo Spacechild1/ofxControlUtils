@@ -15,7 +15,7 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxControl
+	ADDON_NAME = ofxControlUtils
 	ADDON_DESCRIPTION = framerate based control objects 
 	ADDON_AUTHOR = Christof Ressi
 	ADDON_TAGS = "control"
